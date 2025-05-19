@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="DBApplication">
+    <Name>UserPlumbingFixtureAndPipePressureOverride</Name>
+    <Assembly>C:\Program Files\Autodesk\UserStraightSegmentCalculationServers.dll</Assembly>
+    <AddInId>A3C5483F-0F42-4C2A-A37B-9FCB1B40F6C4</AddInId>
+    <FullClassName>UserStraightSegmentCalculationServers.Pipe.ServerApp</FullClassName>
+    <VendorId>USER</VendorId>
+    <VendorDescription>Custom Fixture Flow and Pipe Pressure Drop Servers (Enhanced)</VendorDescription>
+  </AddIn>
+</RevitAddIns>
