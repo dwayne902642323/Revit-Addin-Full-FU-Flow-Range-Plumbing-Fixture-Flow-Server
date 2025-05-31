@@ -1,6 +1,6 @@
 👨‍💻 About This Repository
 
-This repository contains the complete source code for a custom C# Revit API add-in that overrides Revit’s default plumbing fixture flow calculation logic for domestic water systems. Developed by Derek Eubanks, PE, HFDP, CHD, HBDP — a licensed mechanical engineer and Georgia Tech MSCS candidate — the add-in is purpose-built to resolve critical inaccuracies in low-demand fixture unit (FU) flow modeling.
+This repository contains the complete source code for a custom C# Revit API add-in that overrides Revit’s default plumbing fixture flow calculation logic for domestic water systems. Developed by Derek Eubanks, PE, HFDP, CHD, HBDP, CPD — a licensed mechanical engineer and Georgia Tech MSCS candidate — the add-in is purpose-built to resolve critical inaccuracies in low-demand fixture unit (FU) flow modeling.
 
 🔧 Problem It Solves
 
@@ -26,6 +26,6 @@ This tool registers a custom Plumbing Fixture Flow Server using the IPipePlumbin
 
 🧠 Author Background
 
-This tool was developed as part of an ongoing effort to bring real engineering logic into Revit. I’m a licensed Mechanical PE with 12+ years of HVAC and plumbing design experience, certified by ASHRAE (HFDP, CHD, HBDP), and currently completing my MS in Computer Science at Georgia Tech, specializing in machine learning.
+This tool was developed as part of an ongoing effort to bring real engineering logic into Revit. I’m a licensed Mechanical PE with 12+ years of HVAC and plumbing design experience, certified by ASHRAE/ASPE (HFDP, CHD, HBDP, CPD), and currently completing my MS in Computer Science at Georgia Tech, specializing in machine learning.
 
 My goal is to bridge the gap between mechanical engineering standards and software automation — creating tools that are technically rigorous, code-compliant, and field-tested.
